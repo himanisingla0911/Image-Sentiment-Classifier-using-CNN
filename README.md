@@ -27,4 +27,5 @@ This computer vision project focuses on sentiment classification of images, aimi
 
 References
 TensorFlow: https://www.tensorflow.org/
+
 OpenCV: https://opencv.org/
